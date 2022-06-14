@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'http://kennethjohn-001-site1.ctempurl.com',
+    issuer: 'http://dasargo-001-site1.ctempurl.com',
     redirectUri: baseUrl,
     clientId: 'BookStore_App',
     responseType: 'code',
@@ -19,7 +19,7 @@ export const environment = {
   },
   apis: {
     default: {
-      url: 'http://kennethjohn-001-site1.ctempurl.com',
+      url: 'http://dasargo-001-site1.ctempurl.com',
       rootNamespace: 'Acme.BookStore',
     },
   },
